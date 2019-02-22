@@ -17,6 +17,7 @@
 		733B6D11221F8CD70048A819 /* EasyEventHandlerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 733B6D10221F8CD70048A819 /* EasyEventHandlerUITests.m */; };
 		73C799D7221F987700B0641B /* UIResponder+EasyEventHandler.m in Sources */ = {isa = PBXBuildFile; fileRef = 73C799D6221F987700B0641B /* UIResponder+EasyEventHandler.m */; };
 		73C799DA221F9B4500B0641B /* EventExampleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 73C799D9221F9B4500B0641B /* EventExampleView.m */; };
+		73C799E0221FE8D300B0641B /* UITableView+ReuseCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 73C799DF221FE8D300B0641B /* UITableView+ReuseCell.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,8 @@
 		73C799D6221F987700B0641B /* UIResponder+EasyEventHandler.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIResponder+EasyEventHandler.m"; sourceTree = "<group>"; };
 		73C799D8221F9B4500B0641B /* EventExampleView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = EventExampleView.h; sourceTree = "<group>"; };
 		73C799D9221F9B4500B0641B /* EventExampleView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = EventExampleView.m; sourceTree = "<group>"; };
+		73C799DE221FE8D300B0641B /* UITableView+ReuseCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UITableView+ReuseCell.h"; sourceTree = "<group>"; };
+		73C799DF221FE8D300B0641B /* UITableView+ReuseCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UITableView+ReuseCell.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +115,8 @@
 				733B6CED221F8CD50048A819 /* AppDelegate.m */,
 				733B6CEF221F8CD50048A819 /* ViewController.h */,
 				733B6CF0221F8CD50048A819 /* ViewController.m */,
+				73C799DE221FE8D300B0641B /* UITableView+ReuseCell.h */,
+				73C799DF221FE8D300B0641B /* UITableView+ReuseCell.m */,
 				73C799D8221F9B4500B0641B /* EventExampleView.h */,
 				73C799D9221F9B4500B0641B /* EventExampleView.m */,
 				733B6CF2221F8CD50048A819 /* Main.storyboard */,
@@ -284,6 +289,7 @@
 				733B6CFC221F8CD60048A819 /* main.m in Sources */,
 				73C799DA221F9B4500B0641B /* EventExampleView.m in Sources */,
 				73C799D7221F987700B0641B /* UIResponder+EasyEventHandler.m in Sources */,
+				73C799E0221FE8D300B0641B /* UITableView+ReuseCell.m in Sources */,
 				733B6CEE221F8CD50048A819 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
