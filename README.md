@@ -5,5 +5,5 @@ No block or delegate is required to allow ViewController to handle cell or subVi
 # import pod 
 
 ```
-  pod 'EasyEventHandler'
+pod 'EasyEventHandler'
 ```
