@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/One1Light/EasyEventHandler.git",
-    "tag": "0.0.13"
+    "tag": "1.0.0"
   },
   "source_files": [
     "EasyEventHandler/**/*.{h,m}"
